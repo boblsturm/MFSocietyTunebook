@@ -1,0 +1,16 @@
+X:15
+T:Roaring Sillow
+C:folk-rnn (v2, with beamsearch n=4) + Sturm
+M:4/4
+K:Dmaj
+|:dBAG FDFG|AB=cB AGFE|dBAG FGAB|=cABc defg|
+afge fdAF|GEFG AB=c^c|dcAG FDEF|GABG AFD2:|
+|:Addcd2cd|eAA2efge|fede fdec|dcdB AFD2|
+Addcd2cA|B=ccB cBAG|Addcd2cd|eaag afd2:|
+
+X:6
+%%scale 0.6
+M:4/4
+K:Dmaj
+|:dBAG FDFG|AB=cB AGFE|dBAG FGAB|=cAdfg2fg|afge fdAF|GEFG ABcA|dcAG FDDF|AB=cA BAFA|
+Addcd2cd|eAA2efge|fede fdec|dcdB AFD2|Addcd2cA|B=ccB cBAG|Addcd2cd|eaag edd=c:|

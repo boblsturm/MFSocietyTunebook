@@ -1,0 +1,14 @@
+X:1
+T:Aloe Vera's
+C:folk-rnn (v2) + Sturm
+M:6/8
+K:Dmaj
+dcA BGA|BGE F=FE|DFA d2c|B2A GBc|dcA BGA|BGE F3|GAB AFD|GEC D3:|
+|:FAA def|efd B2A|FAA BAd|eBB _B2A|FAA def|efA d2B|AFB AFD|GEC D3:|
+
+X:2
+%%scale 0.6
+M:6/8
+K:Dmaj
+dcA BGA|BGE F2E|Ddd d2c|BAG FGA|dcB cAB|BGE F3|GAB AFD|GEC D3:|
+|:FAA def|efd B2A|FAA BAB|eBB B2A|FAd def|efA d2B|AFA BGE|DEC D3:|

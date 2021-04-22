@@ -1,0 +1,16 @@
+X:1
+T:Cleaper's Wheel
+C:folk-rnn (v2) + Sturm
+M:6/8
+K:Amix
+|:CEA ABd|ecB A2A|BGG GFG|BGB GBd|CEA ABd|eAB =c2A|BGE GED|1 EAA A2G:|2EAA A2B |
+K:Ador
+|:ce/f/g gdB|cAB cBA|BGE DGG|Bdc BAG|
+ce/f/g gdB|cAB c2B|AGE GED|1 EAA A2B:|2 EAA A2G ||
+
+X:2
+%%scale 0.6
+M:6/8
+K:Ador
+|:EAA ABd|eABc2A|BGG GFG|BGB GBd|EAA ABd|ecAA2B|AGE GED|1EAAA2G:|2EAAA2B |
+|:ceg gdB|cAA BcA|BGE DGG|Bdc BAG|cdg ggd|cAB AGE|DGG DGG|1AcBA2B:|2 AcBA2G ||

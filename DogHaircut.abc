@@ -1,0 +1,14 @@
+X:28
+T:The dog got a haircut and now looks like a sheep
+C:folk-rnn (v2 w/ beamsearch n=2, beta=30) + Sturm
+M:12/8
+K:Dmaj
+A2d dcB A2FA2F|G2E EFG AFD A,DF|A2d dcB A2F AFA|G2E E_E=E D3 D3:|
+A2d def e2d c2d|cBA cBc e2A AGE|A2d def e2d cBA|B^AB B=c^c d3 d3:|
+
+X:2
+%%scale 0.6
+M:6/8
+K:Dmaj
+A2d dcB|A2FA2F|G2E EFG|A2F DFA|A2d dcB|A2F AFA|G2E E3|D3 D3:|
+A2d def|e2d c3|cBA cBc|e2A A3|A2d def|e2d cBA|B2B B2c|d3 d3:|

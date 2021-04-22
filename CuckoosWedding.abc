@@ -1,0 +1,16 @@
+X:31
+T: The Cuckoo's Wedding
+C: folk-rnn (v1) + Sturm
+M: 4/4
+K: Gmaj
+|:d2 G2 B<d d2|{e}a2 g>f e2 Bc|dg g<f [gdB]4:|
+|:G3 A F2D2| B2 G2 c3 A|d<B A2 G3 A|BGBd cAFG|1A3 G G4:|2A3 G G2 (3gfe||
+d2 e2 d3 c|B2 D2 A>G F<D|[EGB]4 A2 G2| [deg]4 H[dfa]4 |
+d>c | B2 G2 G2 AB|cAed cBAG|B2 g2 d>c B<F|[GBd]4 [GBd]2 z2||
+
+X:2
+%%scale 0.6
+M: 4/4
+K: Gmaj
+|:e|d2 G2 B<d d2|{e}a2 g>f e2 Bc|dg g<f g4|G3 A F2D2|B2 G2 c3 A|d<B A2 G3 A|BG Bd cA F<G|A3 G G2 gf|
+d2 e2 d3 c|B2 D2 A>G F<D|E4 A2 G2|g6 d>c|B2 G2 G2 AB|cAed c>BAG|B2 g2 d>c B<F|G4 G2z2||

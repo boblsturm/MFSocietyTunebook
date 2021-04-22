@@ -1,0 +1,18 @@
+X:23
+T:The dog ate a raisin so call the vet
+C:folk-rnn (v2) + Sturm
+K:clef=treble
+M:4/4
+K:Gmaj
+G,2B,D GBGA|BdAG EFGE|D2B,D GDB,D|CEDC B,G,G,F,|
+G,2B,D GBGA|BdAG EFGE|DB,B,2GEDC|B,DA,C B,G,G,2:|
+GBB2 gBeB|dBB2 cBAF|GBB2 gBeB|dBAc BGEF|
+GBB2 gBeB|cBAc BAGE|DGBG ABcA|1(3dcB Ac BGG2:|2(3dcB Ac BGDB,||
+
+
+X:24
+%%scale 0.6
+M:4/4
+K:Gmaj
+G,2B,D GBGA|BdAG EFGE|D2B,D GDB,D|CEDC B,G,G,2|G,DB,D GABA|GBAG E3G|DB,B,2GEDC|B,DA,C B,G,G,2:|
+GBB2 gBeB|dBB2 cBAF|GBB2 gBdB|cBAc BGEF|GBB2 eBdB|cBAc BAGE|DGBG ABcA|(3dcB Ac BGG2:|

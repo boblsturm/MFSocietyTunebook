@@ -1,0 +1,18 @@
+X:0
+T:Shoogee Take Another Shoe
+C:folk-rnn (v2) + Sturm
+M:4/4
+K:Gmaj
+|:dBGB ~d2dB|c2AB cBAG|DBGB ~d2dB|1ecAF G2Ge:|2ecAF G2A2||
+BGGF G2dG|edBG AGFD|BGGF G2dG|cAFA GFGA|
+BGGF G2dG|edBG AFDF|GDEF GcBG|cAFA G2e2|
+|:dBGB ~d2dB|c2AB cBAG|DBGB ~d2dB|1ecAF G2Ge:|2e^c (3AB^c d2 d2||
+fdd^c d2ad|bafd edBd|fdd^c d2fd|(3B=c^c de (3fg^g a=g|
+fdd^c d2ad|bafd edBA|dAB^c dgfd|ge^ce d2d2||
+
+X:1
+%%scale 0.6
+M:4/4
+K:Gmaj
+dBGB d2dB|c2AB cBAG|DBGB d2Bd|ecAF G2Gc|dBGB d2Bd|c2Ac BAGB|dBGB d2dB|cAFA G2GA|
+BGGF G2dG|edBG AGFD|BGGF G2dG|cAFA GFGA|BGGF G2d2|edBG AFDF|GDEF GcBG|cAFA G2|

@@ -1,0 +1,14 @@
+X:19
+T:My Ove Wore A Da'
+C:folk-rnn (v2, w/ beamsearch n=2) + Sturm
+M:6/8
+K:Dmaj
+DFA dAF | E2F GAB | DFA dcd | BGE EFE | D2A dAF | GAF GAB|ABd cBc | dAF D2E:|
+FAd d2c | BGB e2d|cAc efg | fdB A2F|G2A d2B | AGF G3|ABd cBc | dAF D2E:|
+
+X:20
+%%scale 0.6
+M:6/8
+K:Dmaj
+|:A|DFA dAF|E2F GAB|DFA dcd|BGE EFG|F2A dAF|GAB AFD|ABd cBc|dAF D2:|
+|:E|FAd d2c|BGB e2d|cAc efg|fdB A2F|G2A d2B|AGF G3|ABc def|ded d2:|

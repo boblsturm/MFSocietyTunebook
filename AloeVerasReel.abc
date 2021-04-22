@@ -1,0 +1,16 @@
+X:30
+T:Aloe Vera's
+C:folk-rnn (v2) + Sturm
+M:4/4
+K:Dmaj
+dcAB GABG|AB=cB A2(3Bc^c|dcAF GBAG|FEFG AB=c^c|
+dcAB GABG|AB=cA G2E2|DCDE FGAB|=cAG^c d2(3ABc:|
+|:d2fd Adfd|BcdB cAFA|d2fd Adfd|AB=cA GEE2|
+d2fd Adfd|BcdB cAFE|DCDE FGAB|=cAG^c d2(3ABc:|
+
+X:16
+%%scale 0.6
+M:4/4
+K:Dmaj
+dcAB GABG|ABcA d2cA|dcAF GBAG|FEFG ABcA|dcAB GABG|ABcA B2A2|dcAB =cAFG|AcGE Ez(3ABc:|
+|:d2fd Adfd|BcdB cAGB|A/2B/2cdB A2AB|ABcA GEE2|(3defed fdAd|BcB=c ABA2|BcdB cAAG|AGFG E2A2:|

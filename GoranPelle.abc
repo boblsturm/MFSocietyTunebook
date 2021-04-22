@@ -1,0 +1,18 @@
+X:12
+T:Göran's sick at home and Pelle's just cut his finger
+M:2/4
+L:1/8
+C:Sturm, Näsström + folk-rnn (v2)
+K:Ador
+|:A/2B/2c BA |GE G2 |A/2B/2c/2B/2 AB |cB/2A/2 GE | AB/2c/2 BA |GEG2 |=F2 G/2A/2B |A2 A2 :|
+|:ag ea| ge de |ag ea |ge dc | ag/2e/2 de |=fe dc |AG EG | A2 A2 :|
+
+X:2
+%%scale 0.6
+S:"|:c/2d/2e dc | BG B2" to create first part
+S:"|:c/2d/2edc |BGB2 |c/2d/2e/2d/2cd |ed/2c/2BG | cd/2e/2dc |BGBB |c2B/2c/2d |c2c2 :| |:c'b gc' | bg" to create second part
+M:2/4
+L:1/8
+K:Ador
+|:A/2B/2c BA |GEG2 |A/2B/2c/2B/2 AB |cB/2A/2 GE | AB/2c/2 BA |GE GG |A2 G/2A/2B |A2 A2 :|
+|:ag ea|ge de |ag ea |ge de | ag/2e/2 de |ge dB |AG EG |A2 A2 :|

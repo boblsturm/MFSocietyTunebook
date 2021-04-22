@@ -1,0 +1,19 @@
+X:22
+T:De Själlösas Schottis
+C:folk-rnn (v/ Swedish) + Sturm
+M:2/4
+L:1/8
+K:D
+|:CD/2C/2 CD | D2ED/2C/2 | DD/2E/2  =FF/2G/2 | AA/2^G/2  Ac/2d/2 | ee/2=f/2 ed/2c/2 | d4:|
+M:3/4
+|:=f^f A/2c/2A/2F/2  ED | ^fg  A/2_B/2A/2^G/2 Ac|1dA eA/2=c/2  eA | G4 F/2A/2D/2E/2|=FD/2C/2 A,2 CD- | [M:2/4] D4 :|
+|2dA eA/2=c/2  e=f |g4 ^f/2a/2d/2e/2  | =fd/2c/2  A2 cd- | [M:2/4] d4 ||
+
+X:2
+%%scale 0.6
+L:1/8
+M:3/4  
+K:Dmin
+A,|:^CD/2C/2 CDD2|ED/2^C/2 DD/2E/2 FF/2G/2|AA/2^G/2 A^c/2d/2 ee/2f/2|ed/2^c/2d4:|
+|:f2A/2c/2A/2^F/2 ED|g2A/2_B/2A/2^G/2 A^c|dA eA/2c/2 eA|G3G ^F/2A/2D/2E/2|FD/2^C/2 A,2^CD|A2A/2B/2A/2G/2A2|
+F2FE/2F/2 GA/2B/2|^c/2d/2e/2c/2 de/2f/2 dA/2B/2|c/2d/2c/2=B/2 A2A=B/2A/2|=GD/2E/2 FE/2D/2 ^CD|D/2^C/2D/2E/2 FF/2G/2 A/2G/2A/2=B/2|^c/2d/2e/2c/2d2D2:|
