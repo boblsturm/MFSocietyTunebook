@@ -1,4 +1,4 @@
-# MFSocietyTunebook
+# Tunebook of The Society for the Preservation and Promotion of Machine Folk Music
 
 This is the growing tune repository of [The Society for the Preservation and Promotion of Machine Folk Music](https://www.facebook.com/groups/TheMFSociety)
 
