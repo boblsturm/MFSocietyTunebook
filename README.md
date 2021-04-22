@@ -1,4 +1,4 @@
 # MFSocietyTunebook
-Tunebook of The Society for the Preservation and Promotion of Machine Folk Music
+[Tunebook](https://github.com/boblsturm/MFSocietyTunebook/MFtunes.pdf) of The Society for the Preservation and Promotion of Machine Folk Music
 
-See the file "MFtunes.pdf"
+Join [The Society](https://www.facebook.com/groups/TheMFSociety)
