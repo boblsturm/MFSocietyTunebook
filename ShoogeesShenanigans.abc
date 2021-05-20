@@ -1,0 +1,22 @@
+X:33
+T:Shoogee's Shenanigans
+C:folk-rnn (v2) w/ beam search (n=2) + Sturm
+M:6/8
+K:Emin
+|:EGB ^A2B|EGB ^A2B|eBB eBB|cBA G2F|EGB ^A2B|EGB ^A2B|eBB cBA|GAF E3:|
+|:e2B gfe|fdB agf|gee gfe|fed B2B|e2B gfe|fdB fga|gfe dBA|GAF E3:| 
+|:EGB^A2B|gBB fBB|egb ^a2b|cBA G2F|EGB ^A2B|gBB fBB|eBB cBA|GAF E3 :|
+|:B^cd e2f|g2e ged|Be^d efg|aba gfe|B^cd e/f/ga|bc'b agf|gfe dBA|GAF E3 :| 
+
+X:34
+%% scale 0.6
+M:6/8
+K:Emin
+"folk-rnn (v2) w/ BS #1019"
+|:EGB ^A2B|EGB ^A2B|eBB eBB|cBA G2F|EGB ^A2B|EGB ^A2B|eBB cBA|GAF E3:|
+|:e2B gfe|fdB agf|gee gfe|fed B2B|e2B gfe|fBB fgf|eBB cBA|GAF E3:|
+M:6/8
+K:Edor
+"folk-rnn (v2) w/ BS #6665"
+|:B,|EGB^A2B|eBB eBB|dBA GBA|GEF G2D|EGB ^A2B|eBB eBB|eBB dBA|GEDE2:|
+|:G|Bdd e2f|g2e ged|Be^d efg|aba ged|B^de b2a|ged efg|fdB AGA|GED E2:|
