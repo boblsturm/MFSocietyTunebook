@@ -1,0 +1,14 @@
+X:37
+T:Pfirst Dose of Pfizer
+C:folk-rnn (v2, w/ beam search n=2) + Sturm
+M:6/8
+K:Gmaj
+|:dBA G2G | GFG A2B | cBA e2A | cBA f2d | gfg efg | d2B c2A | ded cBA | G3 G2B:|
+|:d^cd gfg | a2f d2g | b3 aba | gag fef | g2b a2g | f2e def | gfe def | g3 G2 B:|
+
+X:20
+%%scale 0.6
+M:6/8
+K:Gmaj
+|:B|dBA G3|G3 A2B|cBA e2A|ded B2d|gfg efg|dcB cBA|ded cBA|G3 G2:|
+|:B|d^cd gfg|a2f d2g|b3 aba|gag fed|g2b a2g|f2e def|gfe def|g3 G2:|
