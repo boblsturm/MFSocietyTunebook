@@ -1,0 +1,26 @@
+X:38
+T:Dress the Egg with a Hat
+C:folk-rnn (v2) + Sturm
+M:4/4
+K:Dmaj
+FG|Adfd e2df|ecdB A2FG|Adfd ~g3f|efge d2FG|
+Adfd e2df|ecdB c2AG|FAdf agfe | dfec d2:|
+DE|FAdc d2ef|gfed BAA2|eBB2 dBAG|FABF AFEG|
+FAdc d2ef|gfed BAdB|ABdf ~a3g|fdec d2:|
+
+X:65629
+%%scale 0.6
+M:4/4
+K:Dmaj
+FG|:Adfd e2df|ecec A2FG|Adfd g2fg|efge d2FG|Adfd e2df|eced c2AG|FAdf g2eg|fdec d2FG|
+Adfd e2dc|BdAF G2EG|Adfd e2cd|eage d2FG|Adfd e2dc|BdAF G2FG|Adfd e2ge|dfec d2DE|
+Fdd2 BdAd|Bded cABd|Fdd2 BdAd|Bdce dAFE|Fdd2 BdAd|Bdec dcBA|FAdA BABd|GBec d2de|
+
+X:65630
+%%scale 0.6
+M:4/4
+K:Dmaj
+DE|FAdA d2ef|gfef dBA2|eBB2 dBAF|AFBF AFEG|
+FAdA d2ef|gfed BAdB|ABdf a2bg|fdec d2:|
+|:fg|add2 fdad|gee2 bgeg|fdf2 edBA|FAAF G2AB|
+ADD2 dDFA|edfd ecde|fedc dBAd|BdAF D2:|
