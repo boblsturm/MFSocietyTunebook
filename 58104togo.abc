@@ -1,0 +1,16 @@
+X:43
+T:58,104 to go
+C:folk-rnn (v2, w/ beam search n=2) + Sturm
+M:6/8
+K:Dmix
+|:A=FD EFG|A=FD dcA|G2E cGE|GED c2G|A=FD EFG|~A3 GAB|cBc GEC|DED D3:|
+|:d^cd efg|fed fed|e2A ABc|Bcd ~e3|d^cd efg|agf gfe|dcA GEC|DED D3:|
+|:dAG FAF|DFA def|gec ecG|EFG cde|dAG FAF|DFA dfa|ged cAG|Ad^c d3:|
+
+X:44
+%%scale 0.6
+M:6/8
+K:Dmix
+|:A2D EFG|AFD dcA|G2E cGE|GED c2A|ADE FDE|FDF GAB|cBc GEC|DED D3:|
+|:d^cd efg|fed fed|e2A ABc|Bcd edc|dcd efg|fed fed|cBc AFG|DED D3:|
+|:dAG FAF|DFA dfa|gec ecG|EFG cde|dAG FAF|DFA def|ged cAG|Ad^c d3:|

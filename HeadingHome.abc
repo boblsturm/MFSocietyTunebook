@@ -1,0 +1,14 @@
+X:42
+T:Heading back home to finally bury mom
+C:folk-rnn (v2 w/ beam search n=2) + Sturm
+M:6/8
+K:Amix
+|:e2e dBA|cBA e2c|ded ~B3|dBA G2d|e2e dBA|cde d2B|=cBA dBG|ABA A3:|
+|:g2e gea|gef ged|cBc Ace|fed ~d3|g2e gea|gef ged|=cBA dBG|ABA A3:|
+
+X:43
+%%scale 0.6
+M:6/8
+K:Amix
+|:e2e dBA|cBA ecA|ded BBB|dBA GBd|e2e dBA|cee dBA|cBA dBG|ABA A3:|
+|:g2e gea|gef ged|cBc Ade|ged Bce|g2e gea|gef ged|GBd gdB|ABA A3:|
