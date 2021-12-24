@@ -1,0 +1,16 @@
+X:45
+T:Djursvik Semester
+C:folk-rnn (v2) + Sturm
+M:6/8
+K:Dmaj
+|:A,DD DFA|~d3ded|=c2A BAG|~A3 GFE|A,DD DFA|~d3 edc|ABc dAF|1GFE D2A,:|2GFE D2e|
+|:~f3 def|~g3 edc|ded =cAG|FGA cde|~f3 def|~g3 edc|dcA GED|1FDC D2e:|2A,DC D2A,| 
+
+X:46
+%%scale 0.6
+M:6/8
+K:Dmaj
+A,DDDFA|d2dded|=cAABAG|F2DEFD|A,DDDFA|d2dded|cABcAG|FDCD2A,|
+A,DDDFA|d2dded|=cAAGFG|A3AGE|A,DDDFA|d2dedc|ABcdAF|GFDD2e|
+f2fdef|g2eedc|dedcAG|FGABAG|f2fdef|g2gcAe|dcAGED|A,DCD2e|
+f2fdcd|g3edc|ABcdef|gedcde|f2dedc|dcAGED|A,CEEGG|FDCD2|

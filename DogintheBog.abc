@@ -1,0 +1,17 @@
+X:53
+T:Dog in the Bog
+C:folk-rnn (v2) + Sturm
+K:clef=treble
+M:4/4
+K:Amaj
+(3efg|agae fecA|EGAB cAFG|EGBd cecA|BABc d2(3efg|
+agae fecA|EGAB cd (3efg|af (3dAF (3DFA (3DGc|B2A2 A2:|
+cd|edce fedf|gG (3ABc d2(3efg|ageg bafd'|c'agf e2(3Bcd|
+edcA dcBG|(3AFD (3GEB, E,4|A,DFA dAGc|B2A2 A2:|
+
+X:54
+%%scale 0.6
+M:4/4
+K:Amaj
+(3efg|agae fecA|EGAB cAFG|Acef cecA|BABc d2(3efg|agae cAFA|EFAB c2eg|aecA EAGA|B2A2 A2:|
+|:cd|edce fdBA|GABc d2ef|gbeg bgec|feef e2cd|edcA dcBA|GDFD E2AG|FdcA GABA|G2A2 A2:|

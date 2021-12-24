@@ -1,0 +1,14 @@
+X:51
+T:Chickens "Dancing" on a Hot Plate
+C:folk-rnn (v2 w/ beam search) + Sturm
+M:12/8
+K:Gmaj
+|:B2G AFD G2B d2e|=fef gfe dcB ABc|B2G AFD G2B def|1gfe cAF G3 d2c:|2 gfe cAF G3 GBd |
+|:gfg efg f2d ^c2d|edc dcB cBA GBd|gfg efg a2d =f2e|1 d^cd ed=c B2G GBd:|2 d^cd ed=c B2G d2c | 
+
+X:52
+%%scale 0.6
+M:6/8
+K:Gmaj
+d2c|:B2G AFD|G2B d2e|=fef gfe|dcB ABc|B2G AFD|G2B def|gfe cAF|1GFG d2c:|2 GFG GBd |
+|:gfg efg|fdd =f2d|edc dcB|cBA GBd|gfg efg|fdd =f2e|dcd edc|1BGG GBd:|2 BGG d2c | 

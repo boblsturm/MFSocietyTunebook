@@ -1,0 +1,15 @@
+X:55
+T:The Playing Kats
+C:folk-rnn (v2) + Sturm
+M:6/8
+K:Amix
+|:A,2A, CEF|G3 FED|EDE EFE|EDB, G,2G,|A,3 CEF|G2E FED|EFE DB,G,|A,B,A, A,3:|
+|:EAA G2A|BAG AGF|EAA GAB|dBA AGF | 
+|1EAA GAB | def gef|g2e dBG|ABA A2D:|2EAA G2A |GEF GA^A|B2E DB,G,|A,B,A, A,3 || 
+
+X:56
+%% scale 0.6
+M:6/8
+K:Amix
+|:A,3 CEF|G3 FED|EDE E3|EDB, G,3|A,3 CEF|G2E FED|EFE DB,G,|A,3 A,3:|
+|:EAA G2A|BAG AGF|EAA GAB|dBA G2F|EAA GAB|AGF GEF|G2E DB,G,|A,3 A,2D:|

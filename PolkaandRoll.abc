@@ -1,0 +1,20 @@
+  
+
+X:59
+T:Polka and Roll
+C:folk-rnn (v2) w/ critic + Sturm
+L:1/8
+M:2/4
+K:Dmaj
+|:FE FG|Ad BG|FE ED|EC DE|FE FG|Ad f2|ge dc|1d2 dG:||2d2 de ||
+=fd fa|ge =ce|=fd _Bd|ec Ac|=fd fa|ge ef|ge dc|d2 de | 
+fd fa|ge ^de|fd cd|ec Ac|fd fa|ge ef|ge dc| d2 dG ||
+
+X:60
+C:folk-rnn (v2) w/ critic
+L:1/8
+M:2/4
+K:Dmaj
+|:FE FG|Ad BG|FF ED|EC DE|FE FG|Ad f2|ge dc|1d2 d2:||2d2 de
+|:fd fa|ge eg|fd fd|Bc de|fd fa|ge eg|fd ec|d2 de:|
+

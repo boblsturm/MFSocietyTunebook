@@ -1,0 +1,14 @@
+X:49
+T:Father's Fez
+C:folk-rnn (v2, w/ beam search) + Sturm
+M:6/8
+K:Emin
+|:e2b bag|f3 fga|g2f e2e|^d2B c2B|E2B BAG|F2B BAG|F2g b2A|G2^D E3:|
+|:e3 eBe|g2a b3|[dB]3 cBA|[^dA]3 cBA|[eG]3 gfe|[df]3 fga|b2d' d'c'b|a2g f2^d:|
+
+X:50
+%%scale 0.6
+M:6/8
+K:Emin
+|:f|e2b bag|f3 fga|g3 e2e|^d2B c2B|e2e bag|f3 bag|f3 b3|g3 g2:|
+|:f|e3 eBe|g2a b3|d3 cBA|def f3|g3 gfe|d2e f2f|aga fed|B3 B2:|
