@@ -1,0 +1,18 @@
+X:66
+C:folk-rnn (v. Swedish) + Sturm
+T:A slow waltz
+L:1/16
+M:3/4
+K:AMin
+[A,E]2A2 E2A2 E2c2-|cdcB ABcd [ce]2[ce]2|[_A,E]2B2 E2B2 E2d2-|dedc edcB B2[Ac]2|
+[A,E]2A2 E2A2 E2c2-|ce/d/cB ABcd ^d2e2-|edef gfed cdef|decB B2_A2 [=A,=A]4:|
+|:e2ce c2ec efge|a2af g2ge d2[Bg]2|A2e^c Acde agfe|
+d2Bd gfed [c^d]2[ce]2-|[ce]fed cdcB cdef|decB B2_A2 [=A,=A]4:|
+
+X:67
+%% scale 0.6
+L:1/16
+M:3/4
+K:AMin
+E2A2 E2A2 E2c2|cdcB ABcd e2e2|E2B2 E2E2 E2E2|D2cd edcB B2A2|E2B2 E2A2 E2c2|d2cd cBAB c2A2|cdef gfed cdef|edcB B2A2 A4:|
+|:e2ce c2ec efge|a2af g2ge c2e2|c2ec A2ce gfed|e2ce gfed d2e2|cdcB AcBA GABc|cBAG G2A2 A4:|

@@ -1,0 +1,16 @@
+X:65
+T:The Echo Hornpipe
+C:Tradformer + Sturm
+M:4/4
+K:Dmaj
+|:(3ABc|dA BF ~A3B/c/|dc de f2(3dAF|DB AF A,B AG|FE DF [_A,E]2 de|
+fd A=c BG B^c|dc de f2 (3agf|1db af db ag|(3fgf d2 d2:|2 db af dg fe | (3ABc (3B=c^c d2||
+|:(3cde|fd ef (3gag fg|ag fa (3gag fe|dB/c/ dB A2 fe|dB/c/ dB [ce]2 de|
+fd ef (3gag fg|ag fa (3gag fe|1dB/c/ dB ~A3G|(3FGF D2 D2:|2 dB/c/ dB A3_A/G/|F=F E2 D2|]
+
+X:66
+%%scale 0.6
+M:4/4
+K:Dmaj
+|:(3ABc|dABF A2Bc|dcde f2AF|GBAF GBAG|FEDF E2de|fdAF BAFA|dcde f2AF|GBAF GBAG|F2D2 D2:|
+|:Ad|fdef g2fg|agfa g2fe|dBB2 A2ag|fedf e2Ad|fdef g2fg|agfa g2fe|dBB2 A2AG|F2D2 D2:|
