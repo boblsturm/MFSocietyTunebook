@@ -1,0 +1,16 @@
+X:68
+T:Wordle's done. Now what?
+C:folk-rnn (v2) + Sturm
+M:6/8
+K:Dmix
+|:EAA _A2=A|cBA Bcd|e2B ABc|BAG E2D|EAA _A2=A|cBA Bcd|e/f/ge dBG|BAG A2G:|
+K:Amix
+AEE BEB|cEF GBd|e/f/ga ged|~B3 dBG|AEE BEB|cEF GBd|e/f/ge dBG|BAG A2G:|
+
+X:69
+%%scale 0.6
+C:folk-rnn (v2)
+M:6/8
+K:Ador
+|:EAA A2B|cBA Bcd|edB cBA|BAG E2D|EAA A2B|cBA Bcd|efe dBG|BAA A2B:|
+AEE AEB|cEE GBd|efg edB|G2d BGE|AEE ABc|BEE GBd|efg dBG|1BAG A2G:||2BAG A2G| 

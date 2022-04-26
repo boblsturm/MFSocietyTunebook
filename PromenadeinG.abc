@@ -1,0 +1,16 @@
+X:72
+T:Promenade in G with some Accidentals
+C:Tradformer + Sturm
+M:C|
+K:Gmaj
+|:BA|G2DE GDGE|G2GA Bdge|dB (3GAB dB (3A_BA|GEED EDB,D|
+G2DE GDGE|G3A Bdge|dB (3GAB (3cdc BA|GEED E2:|
+|:ga|bgga bgaf|gdBG D2 (3BAG|GEED EFGA|EAAB cd (3efg|
+bgeb geaf|gdBG DB, G,2|CE (3GAB (3cde (3fga|bggf g2:|
+
+X:73
+%%scale 0.6
+M:4/4
+K:Gmaj
+BA|G2DE GDGE|G2GA Bdge|dB (3GAB dB (3ABA|GEED EDB,D|G2DE GDGE|G2GA Bdge|dB (3GAB dB (3ABA|GEED E2:|
+ga|bgga bgaf|gdBd GA (3BAG|bgga bgag|eaab c'bac'|bgga bgaf|gdBd GA (3BAG|dB (3GAB dB (3ABA|GEED E2:|

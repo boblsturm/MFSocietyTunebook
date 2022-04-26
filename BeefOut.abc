@@ -1,0 +1,16 @@
+X:77
+T:Beef Out
+C:Tradformer + Sturm
+M:4/4
+K:Gmaj
+|:(3DEF|G2BA GECE|DGBG c~A3|G2BA GECE| DGGF G2 (3DEF|
+G2BA GECE|DGBG AedB | G2BA GECE| DGGF G2 :|
+|:(3Bc^c|d2^cd BGBd|ecAc BGAB|de^cd Bdef|gedc BG (3Bc^c|
+dGBG EG_EG|DGBG A^cec|1~b3a gece| dggf g2:|2~b3a gecA| DGGF G2||
+
+X:78
+%%scale 0.6
+M:4/4
+K:Gmaj
+|:D2|G2BA GEEG|DGBG cAA2|G2BA GEEG|DGGF G3:|
+|:B|d2^cd BGGB|ecAc BGAB|d2^cd Bdef|gedc BGAB|dGBG EGEG|DGBG cAA2|G2BA GEEG|DGGF G3:|
